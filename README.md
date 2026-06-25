@@ -15,4 +15,4 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ## Technologies
-Python, Pandas, Matplotlib, Streamlit, Vs studio code, Git & Github
+Python, Pandas, Matplotlib, Streamlit, Jupyter Notebook, Git & Github
